@@ -1,2 +1,1 @@
-# vb-slider
-# by vibos
+# vbSlider
