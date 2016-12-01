@@ -1,1 +1,2 @@
 # vbSlider
+## Simple jQuery slider
